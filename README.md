@@ -29,7 +29,6 @@
   - London, UK 🇬🇧
   - Egypt 🇪🇬
 - 🔭 **Focus:** Specialized in **Flutter & FlutterFlow** development for rapid, high-quality apps.
-- 🎨 **Passion:** Merging **Code** with **3D Design (Blender)**.
 
 ---
 
