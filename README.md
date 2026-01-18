@@ -53,16 +53,34 @@
 
 <div align="center">
 
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=sherifmahmoudofficial&theme=flat&no-frame=true&column=7&margin-w=15" alt="sherifmahmoudofficial" />
-</a>
+<!-- Quick Highlights -->
+<img
+  src="https://github-profile-trophy.vercel.app/?username=sherifmahmoudofficial&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=10&margin-h=10"
+  alt="Trophies"
+/>
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sherifmahmoudofficial&theme=tokyonight&hide_border=true" alt="sherifmahmoudofficial" />
+<!-- Main Stats -->
+<img
+  width="49%"
+  src="https://github-readme-stats.vercel.app/api?username=sherifmahmoudofficial&show_icons=true&theme=tokyonight&hide_border=true"
+  alt="GitHub Stats"
+/>
 
-<br/>
+<img
+  width="49%"
+  src="https://github-readme-streak-stats.herokuapp.com/?user=sherifmahmoudofficial&theme=tokyonight&hide_border=true"
+  alt="GitHub Streak"
+/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sherifmahmoudofficial&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Langs" />
+<br/><br/>
+
+<!-- Languages -->
+<img
+  width="60%"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=sherifmahmoudofficial&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
+  alt="Top Languages"
+/>
 
 </div>
