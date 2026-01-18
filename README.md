@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=0E75B6&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Sherif+Mahmoud;Mobile+Software+Engineer;FlutterFlow+Expert;Global+Tech+Experience" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Sherif+Mahmoud;Mobile+Software+Engineer;FlutterFlow+Expert;Global+Tech+Experience" alt="Typing SVG" />
 
 <h3 align="center">🚀 From New York to Dubai: Crafting World-Class Mobile Experiences.</h3>
 
@@ -49,18 +49,20 @@
 
 ---
 
-### 📊 GitHub Stats
+### 🏆 Achievements & Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=sherifmahmoudofficial&show_icons=true&theme=react&hide_border=true&bg_color=0D1117" alt="Sherif's GitHub Stats" />
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=sherifmahmoudofficial&theme=flat&no-frame=true&column=7&margin-w=15" alt="sherifmahmoudofficial" />
+</a>
+
+<br/><br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sherifmahmoudofficial&theme=tokyonight&hide_border=true" alt="sherifmahmoudofficial" />
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sherifmahmoudofficial&layout=compact&theme=react&hide_border=true&bg_color=0D1117&langs_count=6" alt="Top Languages" />
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sherifmahmoudofficial&theme=react&hide_border=true&background=0D1117" alt="Streak Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sherifmahmoudofficial&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Langs" />
 
 </div>
